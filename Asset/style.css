@@ -1,11 +1,11 @@
 body {
-    background-image: url(../Image/Frame65.png);
+    background-image: url(./Image/Frame65.png);
     background-size: 100% 100vh;
 }
 
 @media screen and (max-width: 540px){
     body {
-        background-image: url(../Image/Frame65.png);
+        background-image: url(./Image/Frame65.png);
         background-size: cover;
     }
 }
